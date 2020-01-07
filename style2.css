@@ -9,12 +9,6 @@ html, body {
 
 .wf-hannari { font-family: "Hannari"; }
 
-@font-face {
-  font-family: 'Hannari';
-  src: url('https://fonts.googleapis.com/earlyaccess/hannari.css');
-  font-weight: 100;
-    font-style: normal;
-}
 
 .image7 {
     display: block;
