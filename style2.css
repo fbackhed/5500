@@ -7,9 +7,11 @@ html, body {
   height: 100%;
 }
 
+.wf-hannari { font-family: "Hannari"; }
+
 @font-face {
-  font-family: 'authentic';
-  src: url('../fonts/AUTHENTICSans-90.otf');
+  font-family: 'Hannari';
+  src: url('https://fonts.googleapis.com/earlyaccess/hannari.css');
   font-weight: 100;
     font-style: normal;
 }
@@ -116,7 +118,7 @@ body {
 p {
     
     display: block;
-    font-family: "authentic";
+    font-family: "Hannari";
     font-size: 20pt;
     z-index: 1;
     height: auto;
@@ -143,7 +145,7 @@ p2 {
     font-kerning: 200%;
     transform: rotate(15deg);
     color: red;
-    font-family: "authentic";
+    font-family: "Hannari";
     
 
     
@@ -162,7 +164,7 @@ p7 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: blue;
-    font-family: "authentic";
+    font-family: "Hannari";
     
 
     
@@ -181,7 +183,7 @@ p8 {
     font-kerning: 200%;
     transform: rotate(15deg);
     color: red;
-    font-family: "authentic";
+    font-family: "Hannari";
     
 
     
@@ -199,7 +201,7 @@ p1 {
     letter-spacing: 0px;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    font-family: "Hannari";
     
 
     
@@ -217,7 +219,7 @@ p4 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    font-family: "Hannari";
     
 
     
@@ -237,7 +239,7 @@ p3 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    font-family: "Hannari";
     
 
     
@@ -257,7 +259,7 @@ p5 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    font-family: "Hannari";
     
 
     
@@ -277,7 +279,7 @@ p6 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    font-family: "Hannari";
     
 
     
@@ -297,7 +299,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    font-family: "Hannari";
     
 }
     
