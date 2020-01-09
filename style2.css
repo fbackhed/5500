@@ -8,13 +8,12 @@ html, body {
 }
 
 @font-face {
-  font-family: 'Yu Gothic Medium';
+  font-family: 'Yu Gothic';
   src: url('../fonts/Yu Gothic Medium.otf');
   font-weight: 100;
     font-style: normal;
     unicode-range: U+0021-00FE;
 }
-
 
 .image7 {
     display: block;
@@ -47,7 +46,7 @@ html, body {
     width: 100%;
     height: auto;
     position: absolute;
-    margin-top: -320%;
+    margin-top: -332%;
     z-index: 4;
     transform: rotate(0deg);
 }
@@ -70,7 +69,7 @@ html, body {
     width: 100%;
     height: auto;
     position: inherit;
-    margin-top: 5%;
+    margin-top: 15%;
     z-index: 2;
     transform: rotate(0deg);
 }
@@ -82,7 +81,7 @@ html, body {
     width: 100%;
     height: auto;
     position: inherit;
-    margin-top: 5%;
+    margin-top: 15%;
     z-index: 2;
     transform: rotate(0deg);
 }
@@ -111,14 +110,29 @@ z-index: 3;
     transform: rotate(0deg);
 }
 
+.image10 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: auto;
+    position: inherit;
+    margin-top: 5%;
+    z-index: 2;
+    transform: rotate(0deg);
+}
+
+
+
 body {
     background-color: black
+        
 }
 
 p {
     
     display: block;
-    font-family: "Yu Gothic Medium";
+    font-family: "Yu Gothic";
     font-size: 20pt;
     z-index: 1;
     height: auto;
@@ -127,7 +141,7 @@ p {
     margin-left: 18%;
     font-kerning: 200%;
     transform: rotate(0deg);
-    color: blue;
+    color: white;
 
     
     
@@ -140,12 +154,12 @@ p2 {
     z-index: 1;
     height: auto;
     position: absolute;
-    margin-top: 220%;
+    margin-top: 240%;
     margin-left: 13%;
     font-kerning: 200%;
     transform: rotate(15deg);
-    color: red;
-    font-family: "notosans";
+    color: white;
+    font-family: "Yu Gothic";
     
 
     
@@ -159,12 +173,12 @@ p7 {
     z-index: 1;
     height: auto;
     position: absolute;
-    margin-top: 267%;
+    margin-top: 297%;
     margin-left: 18%;
     font-kerning: 200%;
     transform: rotate(0deg);
-    color: blue;
-    font-family: "notosans";
+    color: white;
+    font-family: "Yu Gothic";
     
 
     
@@ -178,12 +192,12 @@ p8 {
     z-index: 1;
     height: auto;
     position: absolute;
-    margin-top: 357%;
-    margin-left: 13%;
+    margin-top: 373%;
+    margin-left: 18%;
     font-kerning: 200%;
     transform: rotate(15deg);
-    color: red;
-    font-family: "notosans";
+    color: white;
+    font-family: "Yu Gothic";
     
 
     
@@ -195,13 +209,13 @@ p1 {
     font-size: 16pt;
     z-index: 1;
     position: absolute;
-    margin-top: -3%;
+    margin-top: -10%;
     margin-left: 5%;
    margin-right: 5%;
     letter-spacing: 0px;
     transform: rotate(0deg);
     color: white;
-    font-family: "notosans";
+    font-family: "Yu Gothic";
     
 
     
@@ -210,16 +224,19 @@ p1 {
 
 p4 {
     
+    
     font-size: 12pt;
     z-index: 1;
     position: absolute;
-    margin-top: -3%;
+    margin-top: -10%;
     margin-left: 5%;
-   margin-right: 5%;
+   margin-right: 30%;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "Yu Gothic Medium";
+    font-family: "Yu Gothic";
+    
+   
     
 
     
@@ -233,13 +250,13 @@ p3 {
     z-index: 3;
     height: auto;
     position: absolute;
-    margin-top: 125%;
+    margin-top: 59%;
     margin-left: 5%;
     margin-right: 50%;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "notosans";
+    font-family: "Yu Gothic";
     
 
     
@@ -253,13 +270,13 @@ p5 {
     z-index: 3;
     height: auto;
     position: absolute;
-    margin-top: 193%;
+    margin-top: 135%;
     margin-left: 5%;
     margin-right: 50%;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "notosans";
+    font-family: "Yu Gothic";
     
 
     
@@ -269,17 +286,17 @@ p5 {
 p6 {
     
     display: block;
-    font-size: 14pt;
+    font-size: 12pt;
     z-index: 3;
     height: auto;
     position: absolute;
-    margin-top: 393%;
+    margin-top: 420%;
     margin-left: 5%;
     margin-right: 5%;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "notosans";
+    font-family: "Yu Gothic";
     
 
     
@@ -293,13 +310,13 @@ p9 {
     z-index: 3;
     height: auto;
     position: absolute;
-    margin-top: -3%;
+    margin-top: -10%;
     margin-left: 90%;
     margin-right: 5%;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "notosans";
+    font-family: "Yu Gothic";
     
 }
     
