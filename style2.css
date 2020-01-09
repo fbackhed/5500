@@ -8,10 +8,11 @@ html, body {
 }
 
 @font-face {
-  font-family: 'notosans';
-  src: url('../fonts/NotoSansCJKjp-Medium.woff');
+  font-family: 'Yu Gothic Medium';
+  src: url('../fonts/Yu Gothic Medium.otf');
   font-weight: 100;
     font-style: normal;
+    unicode-range: U+0021-00FE;
 }
 
 
@@ -117,7 +118,7 @@ body {
 p {
     
     display: block;
-    font-family: "notosans";
+    font-family: "Yu Gothic Medium";
     font-size: 20pt;
     z-index: 1;
     height: auto;
@@ -218,7 +219,7 @@ p4 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "YuGo-Medium";
+    font-family: "Yu Gothic Medium";
     
 
     
