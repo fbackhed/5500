@@ -7,6 +7,12 @@ html, body {
   height: 100%;
 }
 
+@font-face {
+  font-family: 'notosans';
+  src: url('../fonts/NotoSansCJKjp-Medium.woff');
+  font-weight: 100;
+    font-style: normal;
+}
 
 
 .image7 {
