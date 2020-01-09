@@ -7,12 +7,6 @@ html, body {
   height: 100%;
 }
 
-@font-face {
-  font-family: 'notosans';
-  src: url('../fonts/NotoSansCJKjp-Medium.woff');
-  font-weight: 100;
-    font-style: normal;
-}
 
 
 .image7 {
@@ -218,7 +212,7 @@ p4 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "YuGothic-Regular";
+    font-family: "YuGo-Medium";
     
 
     
