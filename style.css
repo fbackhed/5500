@@ -125,6 +125,7 @@ z-index: 3;
 
 body {
     background-color: black
+        
 }
 
 p {
@@ -222,6 +223,7 @@ p1 {
 
 p4 {
     
+    
     font-size: 12pt;
     z-index: 1;
     position: absolute;
@@ -232,6 +234,7 @@ p4 {
     transform: rotate(0deg);
     color: white;
     font-family: "authentic";
+   
     
 
     
