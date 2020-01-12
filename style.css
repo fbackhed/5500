@@ -14,11 +14,11 @@ html, body {
     font-style: normal;
 }
 
+
 .image7 {
     display: block;
-    margin-left: 7%;
-    margin-right: auto;
-    width: 100%;
+    left:12%;
+    width: 80%;
     height: auto;
     position: absolute;
     margin-top: -50%;
@@ -28,9 +28,9 @@ html, body {
 
 .image6 {
     display: block;
-    margin-left: 5%;
-    margin-right: auto;
-    width: 90%;
+    left: 10%;
+    
+    width: 80%;
     height: auto;
     position: absolute;
     margin-top: -121%;
@@ -41,7 +41,7 @@ html, body {
 .image5 {
     display: block;
     margin-left: -10%;
-    margin-right: auto;
+    
     width: 100%;
     height: auto;
     position: absolute;
@@ -51,12 +51,12 @@ html, body {
 }
 .image4 {
     display: block;
-    margin-left: -10%;
-    margin-right: auto;
-    width: 120%;
+    left:-0%;
+    
+    width: 100%;
     height: auto;
     position: absolute;
-    margin-top: -200%;
+    margin-top: -195%;
     z-index: 4;
     transform: rotate(0deg);
 }
@@ -64,7 +64,7 @@ html, body {
 .image3 {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    
     width: 100%;
     height: auto;
     position: inherit;
@@ -76,7 +76,7 @@ html, body {
 .image2 {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    
     width: 100%;
     height: auto;
     position: inherit;
@@ -87,15 +87,7 @@ html, body {
 
 
 
-img {display: block;
-margin-left: auto;
-margin-right: auto;
-width: 1000px;
-height: auto;
-position: inherit;
-margin-top: -10%;
-z-index: 3;
-}
+
 
 .image1 {
     display: block;
@@ -128,6 +120,8 @@ body {
         
 }
 
+
+
 p {
     
     display: block;
@@ -138,6 +132,7 @@ p {
     position: absolute;
     margin-top: 85%;
     margin-left: 18%;
+    
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
@@ -209,8 +204,7 @@ p1 {
     z-index: 1;
     position: absolute;
     margin-top: -10%;
-    margin-left: 5%;
-   margin-right: 5%;
+    margin-left: 20px;
     letter-spacing: 0px;
     transform: rotate(0deg);
     color: white;
@@ -228,8 +222,9 @@ p4 {
     z-index: 1;
     position: absolute;
     margin-top: -10%;
-    margin-left: 5%;
-   margin-right: 30%;
+    margin-right: 50%;
+    margin-left: 8.8%;
+   
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
@@ -252,6 +247,7 @@ p3 {
     margin-top: 59%;
     margin-left: 5%;
     margin-right: 50%;
+    
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
