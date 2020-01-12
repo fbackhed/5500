@@ -135,7 +135,7 @@ p {
     
     font-kerning: 200%;
     transform: rotate(0deg);
-    color: white;
+    color: blue;
 
     
     
@@ -152,7 +152,7 @@ p2 {
     margin-left: 13%;
     font-kerning: 200%;
     transform: rotate(15deg);
-    color: white;
+    color: blue;
     font-family: "authentic";
     
 
@@ -171,7 +171,7 @@ p7 {
     margin-left: 18%;
     font-kerning: 200%;
     transform: rotate(0deg);
-    color: white;
+    color: blue;
     font-family: "authentic";
     
 
@@ -190,7 +190,7 @@ p8 {
     margin-left: 18%;
     font-kerning: 200%;
     transform: rotate(15deg);
-    color: white;
+    color: blue;
     font-family: "authentic";
     
 
