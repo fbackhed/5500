@@ -294,11 +294,27 @@ p6 {
     color: white;
     font-family: "authentic";
     
+    
 
     
     
 }
-
+p12 {
+    
+    display: block;
+    font-size: 11pt;
+    z-index: 3;
+    height: auto;
+    position: absolute;
+    margin-top: 420%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+    
+}
 p9 {
     
     display: block;
