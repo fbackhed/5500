@@ -335,16 +335,20 @@ p9 {
     
     display: block;
     font-size: 11pt;
-    z-index: 3;
-    height: auto;
+    z-index: 1;
     position: absolute;
     margin-top: -10%;
     margin-left: 90%;
-    margin-right: 5%;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
     font-family: "authentic";
+	max-width:700px;
+   
+    
+    
+    
+	overflow-wrap: break-word;
     
 }
  
@@ -423,8 +427,18 @@ p9 {
 	}
 	
 	p9 {
-		font-size: 8pt;
-		margin-right: 9%;
+		font-size: 11pt;
+		display: block;
+    font-size: 11pt;
+    z-index: 1;
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 90%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "authentic";
+	max-width:500px;
 	}
 	
 }
@@ -503,8 +517,18 @@ p9 {
 	}
 	
 	p9 {
-		font-size: 7pt;
-		margin-right: 9%;
+		font-size: 11pt;
+		display: block;
+    font-size: 11pt;
+    z-index: 1;
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 90%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "authentic";
+	max-width:250px;
 	}
 	
 
@@ -589,8 +613,19 @@ p9 {
 	}
 	
 	p9 {
-		font-size: 7pt;
-		margin-right: 9%;
+		font-size: 11pt;
+		display: block;
+    font-size: 11pt;
+    z-index: 1;
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 90%;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "authentic";
+	max-width:250px;
+		
 	}
 	
 	
