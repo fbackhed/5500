@@ -433,7 +433,7 @@ p9 {
 	
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
 	p{
 		font-size: 16pt;
 		font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
