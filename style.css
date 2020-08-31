@@ -122,7 +122,7 @@ body {
 p {
     
     display: block;
-    font-family: "autenthic";
+    
     font-size: 20pt;
     z-index: 1;
     height: auto;
@@ -150,7 +150,7 @@ p2 {
     font-kerning: 200%;
     transform: rotate(15deg);
     color: blue;
-    font-family: "autenthic";
+    
     
 
     
@@ -169,7 +169,7 @@ p7 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: blue;
-    font-family: "autenthic";
+    
     
 
     
@@ -188,7 +188,7 @@ p8 {
     font-kerning: 200%;
     transform: rotate(15deg);
     color: blue;
-    font-family: "autenthic";
+    
 
 }
 
@@ -204,7 +204,7 @@ p1 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
  
 }
@@ -223,7 +223,7 @@ p4 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
    
 }
@@ -242,7 +242,7 @@ p3 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
    
 }
 
@@ -258,7 +258,7 @@ p5 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
   
 }
@@ -275,7 +275,7 @@ p6 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
        
 }
@@ -292,14 +292,14 @@ p12 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
     
 }
 p9 {
     
    display: block;
-    font-size: 11pt;
+    font-size: 14pt;
     z-index: 1;
     position: absolute;
     margin-top: -10%;
@@ -307,7 +307,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    
 	max-width:700px;
 	overflow-wrap: break-word;
     
@@ -338,7 +338,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -353,7 +353,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -366,7 +366,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -379,7 +379,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -388,7 +388,7 @@ p9 {
 	}
 	
 	p9 {
-		font-size: 11pt;
+		font-size: 14pt;
 		display: block;
     font-size: 11pt;
     z-index: 1;
@@ -398,7 +398,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    
 	max-width:500px;
 	}
 	
@@ -428,7 +428,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -442,7 +442,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -456,7 +456,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -469,7 +469,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -478,7 +478,7 @@ p9 {
 	}
 	
 	p9 {
-		font-size: 11pt;
+		font-size: 14pt;
 		display: block;
     font-size: 11pt;
     z-index: 1;
@@ -488,7 +488,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    
 	max-width:250px;
 	}
 	
@@ -524,7 +524,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -538,7 +538,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	}
@@ -552,7 +552,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -565,7 +565,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "autenthic";
+    
 	overflow-wrap: break-word;
 	}
 	
@@ -574,7 +574,7 @@ p9 {
 	}
 	
 	p9 {
-		font-size: 11pt;
+		font-size: 14pt;
 		display: block;
     font-size: 11pt;
     z-index: 1;
@@ -584,7 +584,7 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: "authentic";
+    
 	max-width:250px;
 		 
 	}
