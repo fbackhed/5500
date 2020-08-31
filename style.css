@@ -7,11 +7,8 @@ html, body {
   height: 100%;
 }
 
-@font-face {
-  font-family: 'authentic';
-  src: url('../fonts/AUTHENTICSans-90.otf');
-  font-weight: 100;
-    font-style: normal;
+.typo{
+	font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 }
 
 
@@ -192,10 +189,7 @@ p8 {
     transform: rotate(15deg);
     color: blue;
     font-family: "autenthic";
-    
 
-    
-    
 }
 
 p1 {
@@ -212,10 +206,7 @@ p1 {
     color: white;
     font-family: "autenthic";
 	overflow-wrap: break-word;
-    
-
-    
-    
+ 
 }
 
 
@@ -234,16 +225,7 @@ p4 {
     color: white;
     font-family: "autenthic";
 	overflow-wrap: break-word;
-	
-
-	
-		
-    
    
-    
-
-    
-    
 }
 
 p3 {
@@ -261,10 +243,7 @@ p3 {
     transform: rotate(0deg);
     color: white;
     font-family: "autenthic";
-    
-
-    
-    
+   
 }
 
 p5 {
@@ -281,10 +260,7 @@ p5 {
     color: white;
     font-family: "autenthic";
 	overflow-wrap: break-word;
-    
-
-    
-    
+  
 }
 
 p6 {
@@ -333,10 +309,6 @@ p9 {
     color: white;
     font-family: "authentic";
 	max-width:700px;
-   
-    
-    
-    
 	overflow-wrap: break-word;
     
 }
@@ -621,9 +593,6 @@ p9 {
 	
 	
 }
-
-
-
 
 a:link {
     color: white;
