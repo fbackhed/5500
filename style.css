@@ -594,9 +594,11 @@ p9 {
 	
 }
 
-a{
+a {
 	font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 }
+
+
 
 a:link {
     color: white;
