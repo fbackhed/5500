@@ -598,21 +598,26 @@ a:link {
     color: white;
     background-color: transparent;
     text-decoration: none;
+	font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 }
+
 a:visited {
     color: white;
     background-color: transparent;
     text-decoration: none;
+	font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 }
 a:hover {
     color: blue;
     background-color: transparent;
     text-decoration: none;
+	font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 }
 a:active {
     color: white;
     background-color: transparent;
     text-decoration: none;
+	font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 }
 
 
