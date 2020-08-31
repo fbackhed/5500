@@ -316,6 +316,53 @@ p9 {
 }
  
 
+@media (max-width: 900px) {
+	p{
+		font-size: 16pt;	
+		
+	}
+	
+	p1 {
+		font-size: 12pt;
+		
+	}
+	
+	p2 {
+		font-size: 16pt;
+	}
+	
+	p3 {
+		font-size: 8pt;
+		margin-right: 44%;
+	}
+	
+	p4 {
+		font-size: 8pt;
+		margin-right: 30%;
+	}
+	
+	p5 {
+		font-size: 8pt;
+		margin-right: 44%;
+	}
+	
+	p6 {
+		font-size: 8pt;
+		margin-right: 9%;
+	}
+	
+	p7 {
+		font-size: 16pt;
+	}
+	
+	p9 {
+		font-size: 8pt;
+		margin-right: 9%;
+	}
+	
+}
+
+
 @media (max-width: 600px) {
 	p{
 		font-size: 16pt;	
