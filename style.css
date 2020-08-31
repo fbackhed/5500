@@ -299,7 +299,7 @@ p12 {
 p9 {
     
    display: block;
-    font-size: 14pt;
+    font-size: 13pt;
     z-index: 1;
     position: absolute;
     margin-top: -10%;
@@ -388,7 +388,7 @@ p9 {
 	}
 	
 	p9 {
-		font-size: 14pt;
+		font-size: 13pt;
 		display: block;
     font-size: 11pt;
     z-index: 1;
@@ -478,7 +478,7 @@ p9 {
 	}
 	
 	p9 {
-		font-size: 14pt;
+		font-size: 13pt;
 		display: block;
     font-size: 11pt;
     z-index: 1;
@@ -574,7 +574,7 @@ p9 {
 	}
 	
 	p9 {
-		font-size: 14pt;
+		font-size: 13pt;
 		display: block;
     font-size: 11pt;
     z-index: 1;
@@ -592,6 +592,10 @@ p9 {
 	
 	
 	
+}
+
+a{
+	font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 }
 
 a:link {
