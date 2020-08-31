@@ -7,6 +7,10 @@ html, body {
   height: 100%;
 }
 
+.typo {
+	box-sizing: border-box;
+}
+
 @font-face {
   font-family: 'Yu Gothic';
   src: url('../fonts/Yu Gothic Medium.otf');
@@ -208,19 +212,24 @@ p8 {
 p1 {
     
     font-size: 16pt;
-    z-index: 1;
+      z-index: 1;
     position: absolute;
     margin-top: -10%;
-    margin-left: 10%;
-    letter-spacing: 0px;
+    
+	margin-left:80px;
+	max-width:700px;
+    font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
     font-family: "Yu Gothic";
+	overflow-wrap: break-word;
     
 
     
     
 }
+
+
 
 p4 {
     
@@ -229,13 +238,17 @@ p4 {
     z-index: 1;
     position: absolute;
     margin-top: -10%;
-    margin-right: 40%;
-    margin-left: 10%;
-   
+    margin-left:80px;
+	max-width:700px;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
     font-family: "Yu Gothic";
+	overflow-wrap: break-word;
+	
+
+	
+		
     
    
     
@@ -246,14 +259,14 @@ p4 {
 
 p3 {
     
-    display: block;
+    
     font-size: 11pt;
     z-index: 3;
     height: auto;
     position: absolute;
     margin-top: 59%;
     margin-left: 5%;
-    margin-right: 50%;
+    max-width:700px;
     
     font-kerning: 200%;
     transform: rotate(0deg);
@@ -267,18 +280,18 @@ p3 {
 
 p5 {
     
-    display: block;
+    
     font-size: 11pt;
-    z-index: 3;
-    height: auto;
+   z-index: 1;
     position: absolute;
     margin-top: 135%;
-    margin-left: 5%;
-    margin-right: 50%;
+    margin-left:80px;
+	max-width:700px;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
     font-family: "Yu Gothic";
+	overflow-wrap: break-word;
     
 
     
@@ -289,36 +302,33 @@ p6 {
     
     display: block;
     font-size: 11pt;
-    z-index: 3;
-    height: auto;
+    z-index: 1;
     position: absolute;
     margin-top: 420%;
-    margin-left: 5%;
-    margin-right: 5%;
-    font-kerning: 200%;
-    transform: rotate(0deg);
-    color: white;
-    font-family: "authentic";
-    
-    
-
-    
-    
-}
-p12 {
-    
-    display: block;
-    font-size: 11pt;
-    z-index: 3;
-    height: auto;
-    position: absolute;
-    margin-top: 420%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left:80px;
+	max-width:700px;
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
     font-family: "Yu Gothic";
+	overflow-wrap: break-word;
+       
+}
+
+p12 {
+    
+    display: block;
+    font-size: 11pt;
+    z-index: 1;
+    position: absolute;
+    margin-top: 418%;
+    margin-left:80px;
+	max-width:700px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
     
 }
 p9 {
@@ -355,22 +365,57 @@ p9 {
 	
 	p3 {
 		font-size: 8pt;
-		margin-right: 44%;
+		
+		 z-index: 1;
+    position: absolute;
+    margin-left:80px;
+	max-width:500px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
+	
 	
 	p4 {
 		font-size: 8pt;
-		margin-right: 30%;
+	 z-index: 1;
+    position: absolute;
+    margin-top: -10%;
+    margin-left:80px;
+	max-width:500px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
 	
 	p5 {
 		font-size: 8pt;
-		margin-right: 44%;
+		 z-index: 1;
+    position: absolute;
+    margin-left:80px;
+	max-width:500px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
 	
 	p6 {
 		font-size: 8pt;
-		margin-right: 9%;
+		 z-index: 1;
+    position: absolute;
+    margin-left:80px;
+	max-width:500px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
 	
 	p7 {
@@ -401,22 +446,56 @@ p9 {
 	
 	p3 {
 		font-size: 5pt;
-		margin-right: 44%;
+			 z-index: 1;
+    position: absolute;
+    margin-left:80px;
+	max-width:250px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
 	
 	p4 {
 		font-size: 5pt;
-		margin-right: 30%;
+		 z-index: 1;
+    position: absolute;
+    margin-top: -10%;
+    margin-left:80px;
+	max-width:250px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
+	
 	
 	p5 {
 		font-size: 5pt;
-		margin-right: 44%;
+			 z-index: 1;
+    position: absolute;
+    margin-left:80px;
+	max-width:250px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
 	
 	p6 {
 		font-size: 5pt;
-		margin-right: 9%;
+			 z-index: 1;
+    position: absolute;
+    margin-left:80px;
+	max-width:250px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
 	
 	p7 {
@@ -428,7 +507,7 @@ p9 {
 		margin-right: 9%;
 	}
 	
-}
+
 
 
 
@@ -453,22 +532,56 @@ p9 {
 	
 	p3 {
 		font-size: 5pt;
-		margin-right: 44%;
+		z-index: 1;
+    position: absolute;
+    margin-left:80px;
+	max-width:250px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
 	
 	p4 {
 		font-size: 5pt;
-		margin-right: 30%;
+		 z-index: 1;
+    position: absolute;
+    margin-top: -10%;
+    margin-left:80px;
+	max-width:250px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
+	}
 	}
 	
 	p5 {
 		font-size: 5pt;
-		margin-right: 44%;
+		z-index: 1;
+    position: absolute;
+    margin-left:80px;
+	max-width:250px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
 	
 	p6 {
 		font-size: 5pt;
-		margin-right: 9%;
+		z-index: 1;
+    position: absolute;
+    margin-left:80px;
+	max-width:250px;
+    font-kerning: 200%;
+    transform: rotate(0deg);
+    color: white;
+    font-family: "Yu Gothic";
+	overflow-wrap: break-word;
 	}
 	
 	p7 {
