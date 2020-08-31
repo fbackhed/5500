@@ -405,16 +405,7 @@ p9 {
 	
 }
 
-
-
-
-
-
-
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px)
-  and (-webkit-min-device-pixel-ratio: 2) {
+@media (max-width: 700px) {
 	p{
 		font-size: 16pt;	
 		font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
@@ -423,7 +414,6 @@ p9 {
 	p1 {
 		font-size: 12pt;
 		font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
-		
 	}
 	
 	p2 {
@@ -433,7 +423,7 @@ p9 {
 	
 	p3 {
 		font-size: 5pt;
-		z-index: 1;
+			 z-index: 1;
     position: absolute;
     margin-left:80px;
 	max-width:250px;
@@ -457,11 +447,11 @@ p9 {
     font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 	overflow-wrap: break-word;
 	}
-	}
+	
 	
 	p5 {
 		font-size: 5pt;
-		z-index: 1;
+			 z-index: 1;
     position: absolute;
     margin-left:80px;
 	max-width:250px;
@@ -474,7 +464,7 @@ p9 {
 	
 	p6 {
 		font-size: 5pt;
-		z-index: 1;
+			 z-index: 1;
     position: absolute;
     margin-left:80px;
 	max-width:250px;
@@ -501,11 +491,17 @@ p9 {
     font-kerning: 200%;
     transform: rotate(0deg);
     color: white;
-    font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+    
 	max-width:250px;
-		 
+		font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 	}
-	}
+	
+
+
+
+
+
+
 	
 	
 	
